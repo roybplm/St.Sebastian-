@@ -43,4 +43,4 @@ This dashboard provides insights into the demographics of St. Sebastian Church m
 * **Data Security:** Implement measures to safeguard sensitive information.
 * **Regular Updates:** Regularly update the dashboard to reflect changes in the community.
 
-By utilizing this dashboard effectively, St. Sebastian Church can better serve its members and strengthen its community..
+By utilizing this dashboard effectively, St. Sebastian Church can better serve its members and strengthen its community.
